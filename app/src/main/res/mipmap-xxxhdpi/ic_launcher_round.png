@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 5X" />
+        <device id="pixel_2" />
+        <device id="pixel_3" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40dbf2d7-da5e-4c04-88ac-16133a853363" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SwimDB" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SwimDB" type="f1a62948:ProjectNode" />
+                <item name="SwimDB" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SwimDB" type="f1a62948:ProjectNode" />
+                <item name="SwimDB" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SwimDB" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SwimDB" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SwimDB" type="f1a62948:ProjectNode" />
+                <item name=":app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/DBHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="331" column="34" lean-forward="true" selection-start-line="331" selection-start-column="34" selection-end-line="331" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lane1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="33" column="37" selection-end-line="5826" selection-end-column="17" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lane2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lane3.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lane4.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lane5.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lane6.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lane7.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_lane8.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="5811" column="52" lean-forward="true" selection-start-line="5811" selection-start-column="52" selection-end-line="5811" selection-end-column="52" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scroll</find>
+      <find>horizo</find>
+      <find>obj</find>
+      <find>arraylist</find>
+      <find>contact</find>
+      <find>array</find>
+      <find>getallSwimmers</find>
+      <find>minutes2</find>
+      <find>clickable(false)</find>
+      <find>set1</find>
+      <find>NAME1SET1</find>
+      <find>name1Set1_text</find>
+      <find>N/A</find>
+      <find>switch</find>
+      <find>sh1</find>
+      <find>button</find>
+      <find>columnNames1</find>
+      <find>flip</find>
+      <find>time</find>
+      <find>minutes6</find>
+      <find>:</find>
+      <find>toast</find>
+      <find>Lane8</find>
+      <find>Lane7</find>
+      <find>Lane5</find>
+      <find>Lane4</find>
+      <find>Lane2</find>
+      <find>lane1</find>
+      <find>ln1</find>
+      <find>Lane1</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/string.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/MainActivity2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/DBHelperCoach.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/display_coach.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/main_menu.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/loading_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/LoadingScreen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_display_coach.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_display_contact.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/DisplayCoach.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/DisplayContact.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/display_contact.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/DisplaySwimmer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lane1.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/DBHelper.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/Lane8.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/Lane7.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/Lane6.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/Lane5.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/Lane4.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/Lane3.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/Lane2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/Lane1.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hawk/swimdb/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lane8.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lane2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lane3.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lane4.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lane5.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lane6.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_lane7.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="08c1c2a6" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abir\Desktop\CS Projects\SwimDB\app\src\main\res\layout" />
+      <recent name="C:\Users\abir\Desktop\CS Projects\SwimDB\app\src\main\java\com\hawk\swimdb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="U

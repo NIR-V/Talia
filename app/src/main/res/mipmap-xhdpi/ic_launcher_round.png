@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Lane3"
+    android:focusable="false"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/MegaScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/MegaLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <HorizontalScrollView
+                android:id="@+id/table"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TableLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center">
+
+                        <Button
+                            android:id="@+id/button_ln1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#009688"
+                            android:onClick="ln1"
+                            android:text="Lane 1"
+                            android:textColor="#FAFAFA" />
+
+                        <Button
+                            android:id="@+id/button_ln2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="ln2"
+                            android:text="Lane 2" />
+
+                        <Button
+                            android:id="@+id/button_ln3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="ln3"
+                            android:text="Lane 3" />
+
+                        <Button
+                            android:id="@+id/button_ln4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="ln4"
+                            android:text="Lane 4" />
+
+                        <Button
+                            android:id="@+id/button_ln5"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="ln5"
+                            android:text="Lane 5" />
+
+                        <Button
+                            android:id="@+id/button_ln6"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="ln6"
+                            android:text="Lane 6" />
+
+                        <Button
+                            android:id="@+id/button_ln7"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="ln7"
+                            android:text="Lane 7" />
+
+                        <Button
+                            android:id="@+id/button_ln8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="ln8"
+                            android:text="Lane 8" />
+                    </TableRow>
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                    </TableRow>
+
+                </TableLayout>
+            </HorizontalScrollView>
+
+            <HorizontalScrollView
+                android:id="@+id/SwitchScroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/table"
+                android:visibility="visible">
+
+                <TableLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center">
+
+                        <Switch
+                            android:id="@+id/sh1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:checked="false"
+                            android:onClick="sh"
+                            android:text="Show/Hide Set(s): 1" />
+
+                        <Switch
+                            android:id="@+id/sh2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="sh"
+                            android:text="2" />
+
+                        <Switch
+                            android:id="@+id/sh3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="#D6D7D7"
+                            android:onClick="sh"
+                            android:text="3" />
+
+                        <Switch
+                            android:id="@+id/sh4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:
