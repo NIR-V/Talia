@@ -18,7 +18,7 @@ Core Features:
 - Graph daily ratings [Done]
 - Adding, editing, deleting daily entries [Done]
 - Option to send entries to guardian via text [Done]
-- Editiable user and guardian profile page [Done]
+- Editable user and guardian profile page [Done]
 
 # Release History
 1.0:
