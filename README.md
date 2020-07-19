@@ -1,7 +1,9 @@
 # Tallia
 Tallia is an open-source Android app that keeps tallies of how you feel each day. This app is geared for people with mental disabilities.
 
-Project Link: https://github.com/NIR-V/Tallia
+Project Links: 
+https://github.com/NIR-V/Tallia
+https://github.com/AbirHaque/Tallia
 
 # Built With
 This is an Android Studio project written in Java. 
