@@ -3,7 +3,7 @@ Tallia is an open-source Android app that keeps tallies of how you feel each day
 
 Project Links: 
 - https://github.com/NIR-V/Tallia
-- https://github.com/AbirHaque/Tallia
+- https://github.com/AbirHaque/Tallia (hosts most recent versions)
 
 # Built With
 This is an Android Studio project written in Java. 
